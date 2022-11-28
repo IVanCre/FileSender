@@ -1,0 +1,1467 @@
+C:\Users\1\source\repos\client_serv\App1\App1\bin\Debug\App1.dll
+C:\Users\1\source\repos\client_serv\App1\App1\bin\Debug\App1.pdb
+C:\Users\1\source\repos\client_serv\App1\App1\bin\Debug\com.Nosferatu.FileSender.apk
+C:\Users\1\source\repos\client_serv\App1\App1\bin\Debug\com.Nosferatu.FileSender.aab
+C:\Users\1\source\repos\client_serv\App1\App1\bin\Debug\com.Nosferatu.FileSender-Signed.aab
+C:\Users\1\source\repos\client_serv\App1\App1\bin\Debug\com.Nosferatu.FileSender-Signed.apk
+C:\Users\1\source\repos\client_serv\App1\App1\bin\Debug\com.Nosferatu.FileSender-Signed.apk.idsig
+C:\Users\1\source\repos\client_serv\App1\App1\bin\Debug\System.Text.Json.dll
+C:\Users\1\source\repos\client_serv\App1\App1\bin\Debug\System.Memory.dll
+C:\Users\1\source\repos\client_serv\App1\App1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\1\source\repos\client_serv\App1\App1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\1\source\repos\client_serv\App1\App1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\1\source\repos\client_serv\App1\App1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\1\source\repos\client_serv\App1\App1\bin\Debug\System.Buffers.dll
+C:\Users\1\source\repos\client_serv\App1\App1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\MonoAndroid,Version=v10.0.AssemblyAttributes.cs
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\build.props
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\adb.props
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\res.flag
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\lp\38\jl\files.cache
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\lp\43\jl\files.cache
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\lp\49\jl\files.cache
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\lp\56\jl\files.cache
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\lp\57\jl\files.cache
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\lp\60\jl\files.cache
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\lp\65\jl\files.cache
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\lp\67\jl\files.cache
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\lp\70\jl\files.cache
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\lp\71\jl\files.cache
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\lp\72\jl\files.cache
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\lp\73\jl\files.cache
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\lp\74\jl\files.cache
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\R.txt
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\R.cs.flag
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\FileSender.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\FileSender.csproj.CopyComplete
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\App1.dll
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\App1.pdb
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\bin\com.Nosferatu.FileSender.apk
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\bin\base.zip
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\bin\com.Nosferatu.FileSender.aab
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\bin\com.Nosferatu.FileSender.apks
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\res\layout\activity_main.xml
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\res\values\colors.xml
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\res\values\ic_launcher_background.xml
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\res\values\strings.xml
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\res\values\styles.xml
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\uploadflags.txt
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\resolvedassemblies.hash
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\App1.dll
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\App1.pdb
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Java.Interop.dll
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Mono.Android.dll
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Mono.Android.pdb
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Mono.Security.dll
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Mono.Security.pdb
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\mscorlib.dll
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\mscorlib.pdb
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\netstandard.dll
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\System.Buffers.dll
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\System.ComponentModel.Composition.dll
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\System.Core.dll
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\System.Core.pdb
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\System.Data.DataSetExtensions.dll
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\System.Data.DataSetExtensions.pdb
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\System.Data.dll
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\System.Data.pdb
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\System.dll
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\System.Drawing.Common.dll
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\System.Drawing.Common.pdb
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\System.IO.Compression.dll
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\System.IO.Compression.FileSystem.dll
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\System.IO.Compression.FileSystem.pdb
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\System.IO.Compression.pdb
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\System.Memory.dll
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\System.Net.Http.dll
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\System.Net.Http.pdb
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\System.Numerics.dll
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\System.Numerics.pdb
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\System.Numerics.Vectors.dll
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\System.pdb
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\System.Runtime.dll
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\System.Runtime.Serialization.dll
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\System.Runtime.Serialization.pdb
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\System.ServiceModel.Internals.dll
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\System.Text.Encodings.Web.dll
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\System.Text.Json.dll
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\System.Threading.Tasks.Extensions.dll
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\System.Transactions.dll
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\System.Transactions.pdb
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\System.ValueTuple.dll
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\System.Web.Services.dll
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\System.Web.Services.pdb
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\System.Xml.dll
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\System.Xml.Linq.dll
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\System.Xml.Linq.pdb
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\System.Xml.pdb
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Activity.dll
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Activity.pdb
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Annotation.dll
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Annotation.pdb
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.AppCompat.AppCompatResources.dll
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.AppCompat.AppCompatResources.pdb
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.AppCompat.dll
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.AppCompat.pdb
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Arch.Core.Common.dll
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Arch.Core.Common.pdb
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Arch.Core.Runtime.dll
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Arch.Core.Runtime.pdb
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.AsyncLayoutInflater.dll
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.AsyncLayoutInflater.pdb
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Browser.dll
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Browser.pdb
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.CardView.dll
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.CardView.pdb
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Collection.dll
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Collection.pdb
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.CoordinatorLayout.dll
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.CoordinatorLayout.pdb
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Core.dll
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Core.pdb
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.CursorAdapter.dll
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.CursorAdapter.pdb
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.CustomView.dll
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.CustomView.pdb
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.DocumentFile.dll
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.DocumentFile.pdb
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.DrawerLayout.dll
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.DrawerLayout.pdb
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Fragment.dll
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Fragment.pdb
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Interpolator.dll
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Interpolator.pdb
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.dll
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.pdb
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Legacy.Support.Core.Utils.dll
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Legacy.Support.Core.Utils.pdb
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.Common.dll
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.Common.pdb
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.dll
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.pdb
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.Runtime.dll
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.Runtime.pdb
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.dll
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.pdb
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.ViewModelSavedState.dll
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.ViewModelSavedState.pdb
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Loader.dll
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Loader.pdb
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.LocalBroadcastManager.dll
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.LocalBroadcastManager.pdb
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.MultiDex.dll
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.MultiDex.pdb
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Print.dll
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Print.pdb
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.RecyclerView.dll
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.RecyclerView.pdb
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.SavedState.dll
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.SavedState.pdb
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.SlidingPaneLayout.dll
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.SlidingPaneLayout.pdb
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.dll
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.pdb
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Transition.dll
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Transition.pdb
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.VectorDrawable.Animated.dll
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.VectorDrawable.Animated.pdb
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.VectorDrawable.dll
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.VectorDrawable.pdb
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.VersionedParcelable.dll
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.VersionedParcelable.pdb
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.ViewPager.dll
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.ViewPager.pdb
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.Essentials.dll
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.Essentials.pdb
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.Google.Android.Material.dll
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.Google.Android.Material.pdb
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.Google.Guava.ListenableFuture.dll
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\typemaps.arm64-v8a.s
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\typemaps.armeabi-v7a.s
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\typemaps.x86.s
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\typemaps.x86_64.s
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\typemaps.armeabi-v7a-shared.inc
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\typemaps.shared.inc
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\AndroidManifest.xml
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\AndroidManifest.xml
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\__environment__.txt
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\mono\MonoRuntimeProvider.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\assets\machine.config
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\bin\mono.android.jar
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\static.flag
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\buildid.txt
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\environment.arm64-v8a.s
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\environment.armeabi-v7a.s
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\environment.x86.s
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\environment.x86_64.s
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\androidx\appcompat\R.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\androidx\appcompat\resources\R.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\androidx\appcompat\widget\Toolbar_NavigationOnClickEventDispatcher.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\androidx\browser\customtabs\CustomTabsClient_CustomTabsCallbackImpl.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\androidx\browser\R.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\androidx\cardview\R.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\androidx\coordinatorlayout\R.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\androidx\core\R.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\androidx\drawerlayout\R.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\androidx\fragment\R.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\androidx\recyclerview\R.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\androidx\savedstate\R.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\androidx\transition\R.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\com\google\android\material\R.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\com\google\android\material\snackbar\Snackbar_SnackbarActionClickImplementor.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\crc64396a3fe5f8138e3f\CustomTabsServiceConnectionImpl.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\crc64396a3fe5f8138e3f\KeepAliveService.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\AccelerometerListener.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\ActivityLifecycleContextListener.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\BarometerListener.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\BatteryBroadcastReceiver.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\ClipboardChangeListener.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\ConnectivityBroadcastReceiver.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\EnergySaverBroadcastReceiver.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\GyroscopeListener.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\IntermediateActivity.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\Listener.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\MagnetometerListener.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\OrientationSensorListener.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\SensorListener.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\SingleLocationListener.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\TextToSpeechImplementation.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\WebAuthenticatorCallbackActivity.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\WebAuthenticatorIntermediateActivity.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\crc64a7a6b04b89628087\MainActivity.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\appcompat\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\appcompat\app\ActionBar_OnNavigationListenerImplementor.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\appcompat\app\ActionBar_TabListenerImplementor.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\appcompat\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\appcompat\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\appcompat\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\appcompat\widget\MenuItemHoverListenerImplementor.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\appcompat\widget\PopupMenu_OnDismissListenerImplementor.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\appcompat\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\appcompat\widget\SearchView_OnCloseListenerImplementor.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\appcompat\widget\SearchView_OnQueryTextListenerImplementor.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\appcompat\widget\SearchView_OnSuggestionListenerImplementor.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\appcompat\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\appcompat\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\appcompat\widget\ViewStubCompat_OnInflateListenerImplementor.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\asynclayoutinflater\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\core\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\core\os\CancellationSignal_OnCancelListenerImplementor.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\core\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\core\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\core\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\core\view\ActionProvider_VisibilityListenerImplementor.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\core\view\DragStartHelper_OnDragStartListenerImplementor.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\core\view\inputmethod\InputConnectionCompat_OnCommitContentListenerImplementor.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\core\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\core\view\OnApplyWindowInsetsListenerImplementor.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\core\view\ViewPropertyAnimatorListenerImplementor.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\core\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\core\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\drawerlayout\widget\DrawerLayout_DrawerListenerImplementor.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\fragment\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\loader\content\Loader_OnLoadCanceledListenerImplementor.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\loader\content\Loader_OnLoadCompleteListenerImplementor.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\recyclerview\widget\AsyncListDiffer_ListListenerImplementor.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\recyclerview\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnItemTouchListenerImplementor.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\recyclerview\widget\RecyclerView_RecyclerListenerImplementor.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\slidingpanelayout\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\swiperefreshlayout\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\transition\Transition_TransitionListenerImplementor.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\viewpager\widget\ViewPager_OnAdapterChangeListenerImplementor.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\viewpager\widget\ViewPager_OnPageChangeListenerImplementor.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\mono\android\app\ApplicationRegistration.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\mono\com\google\android\material\appbar\AppBarLayout_OnOffsetChangedListenerImplementor.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\mono\com\google\android\material\behavior\SwipeDismissBehavior_OnDismissListenerImplementor.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\mono\com\google\android\material\bottomnavigation\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\mono\com\google\android\material\bottomnavigation\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\mono\com\google\android\material\chip\ChipGroup_OnCheckedChangeListenerImplementor.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\mono\com\google\android\material\navigation\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\mono\com\google\android\material\tabs\TabLayout_BaseOnTabSelectedListenerImplementor.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\mono\MonoPackageManager_Resources.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\xamarin\essentials\fileProvider.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\bin\packaged_resources
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\src\com\nosferatu\filesender\R.java
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\compressed_assemblies.arm64-v8a.s
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\compressed_assemblies.armeabi-v7a.s
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\compressed_assemblies.x86.s
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\compressed_assemblies.x86_64.s
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\typemaps.arm64-v8a.o
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\typemaps.armeabi-v7a.o
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\typemaps.x86.o
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\typemaps.x86_64.o
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\environment.arm64-v8a.o
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\environment.armeabi-v7a.o
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\environment.x86.o
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\environment.x86_64.o
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\compressed_assemblies.arm64-v8a.o
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\compressed_assemblies.armeabi-v7a.o
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\compressed_assemblies.x86.o
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\compressed_assemblies.x86_64.o
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\app_shared_libraries\arm64-v8a\libxamarin-app.so
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\app_shared_libraries\x86\libxamarin-app.so
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\app_shared_libraries\x86_64\libxamarin-app.so
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\android\bin\classes.dex
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\stamp\_CleanIntermediateIfNeeded.stamp
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\stamp\_CompileToDalvik.stamp
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\stamp\_ConvertCustomView.stamp
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\stamp\_ConvertResourcesCases.stamp
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\stamp\_GenerateJavaStubs.stamp
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\stamp\_GeneratePackageManagerJava.stamp
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\res\drawable\icon_pic.png
+C:\Users\1\source\repos\client_serv\App1\App1\obj\Debug\100\FileSender.csproj.AssemblyReference.cache
+D:\All programms\client_serv\App1\App1\obj\Debug\100\MonoAndroid,Version=v10.0.AssemblyAttributes.cs
+D:\All programms\client_serv\App1\App1\obj\Debug\100\build.props
+D:\All programms\client_serv\App1\App1\obj\Debug\100\adb.props
+D:\All programms\client_serv\App1\App1\obj\Debug\100\FileSender.csproj.AssemblyReference.cache
+D:\All programms\client_serv\App1\App1\obj\Debug\100\stamp\_BuildLibraryImportsCache.stamp
+D:\All programms\client_serv\App1\App1\obj\Debug\100\res.flag
+D:\All programms\client_serv\App1\App1\obj\Debug\100\lp\71\jl\files.cache
+D:\All programms\client_serv\App1\App1\obj\Debug\100\lp\73\jl\files.cache
+D:\All programms\client_serv\App1\App1\obj\Debug\100\R.txt
+D:\All programms\client_serv\App1\App1\obj\Debug\100\R.cs.flag
+D:\All programms\client_serv\App1\App1\obj\Debug\100\FileSender.csproj.CoreCompileInputs.cache
+D:\All programms\client_serv\App1\App1\obj\Debug\100\App1.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\App1.pdb
+D:\All programms\client_serv\App1\App1\bin\Debug\App1.dll
+D:\All programms\client_serv\App1\App1\bin\Debug\App1.pdb
+D:\All programms\client_serv\App1\App1\bin\Debug\com.Nosferatu.FileSender.apk
+D:\All programms\client_serv\App1\App1\bin\Debug\com.Nosferatu.FileSender.aab
+D:\All programms\client_serv\App1\App1\bin\Debug\com.Nosferatu.FileSender-Signed.aab
+D:\All programms\client_serv\App1\App1\bin\Debug\com.Nosferatu.FileSender-Signed.apk
+D:\All programms\client_serv\App1\App1\bin\Debug\com.Nosferatu.FileSender-Signed.apk.idsig
+D:\All programms\client_serv\App1\App1\bin\Debug\System.Text.Json.dll
+D:\All programms\client_serv\App1\App1\bin\Debug\System.Memory.dll
+D:\All programms\client_serv\App1\App1\bin\Debug\System.Text.Encodings.Web.dll
+D:\All programms\client_serv\App1\App1\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\All programms\client_serv\App1\App1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\All programms\client_serv\App1\App1\bin\Debug\System.Buffers.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\FileSender.csproj.CopyComplete
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\bin\com.Nosferatu.FileSender.apk
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\bin\base.zip
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\bin\com.Nosferatu.FileSender.aab
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\bin\com.Nosferatu.FileSender.apks
+D:\All programms\client_serv\App1\App1\obj\Debug\100\res\layout\activity_main.xml
+D:\All programms\client_serv\App1\App1\obj\Debug\100\res\values\colors.xml
+D:\All programms\client_serv\App1\App1\obj\Debug\100\res\values\ic_launcher_background.xml
+D:\All programms\client_serv\App1\App1\obj\Debug\100\res\values\strings.xml
+D:\All programms\client_serv\App1\App1\obj\Debug\100\res\values\styles.xml
+D:\All programms\client_serv\App1\App1\obj\Debug\100\res\drawable\icon_pic.png
+D:\All programms\client_serv\App1\App1\obj\Debug\100\uploadflags.txt
+D:\All programms\client_serv\App1\App1\obj\Debug\100\resolvedassemblies.hash
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\App1.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\App1.pdb
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Java.Interop.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Microsoft.Bcl.AsyncInterfaces.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Mono.Android.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Mono.Android.pdb
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Mono.Security.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Mono.Security.pdb
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\mscorlib.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\mscorlib.pdb
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\netstandard.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\System.Buffers.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\System.ComponentModel.Composition.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\System.ComponentModel.Composition.pdb
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\System.Core.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\System.Core.pdb
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\System.Data.DataSetExtensions.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\System.Data.DataSetExtensions.pdb
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\System.Data.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\System.Data.pdb
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\System.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\System.Drawing.Common.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\System.Drawing.Common.pdb
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\System.IO.Compression.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\System.IO.Compression.FileSystem.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\System.IO.Compression.FileSystem.pdb
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\System.IO.Compression.pdb
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\System.Memory.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\System.Net.Http.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\System.Net.Http.pdb
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\System.Numerics.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\System.Numerics.pdb
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\System.Numerics.Vectors.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\System.pdb
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\System.Runtime.CompilerServices.Unsafe.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\System.Runtime.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\System.Runtime.Serialization.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\System.Runtime.Serialization.pdb
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\System.ServiceModel.Internals.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\System.ServiceModel.Internals.pdb
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\System.Text.Encodings.Web.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\System.Text.Json.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\System.Threading.Tasks.Extensions.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\System.Transactions.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\System.Transactions.pdb
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\System.ValueTuple.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\System.Web.Services.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\System.Web.Services.pdb
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\System.Xml.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\System.Xml.Linq.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\System.Xml.Linq.pdb
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\System.Xml.pdb
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Activity.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Activity.pdb
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Annotation.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Annotation.pdb
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.AppCompat.AppCompatResources.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.AppCompat.AppCompatResources.pdb
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.AppCompat.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.AppCompat.pdb
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Arch.Core.Common.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Arch.Core.Common.pdb
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Arch.Core.Runtime.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Arch.Core.Runtime.pdb
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.AsyncLayoutInflater.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.AsyncLayoutInflater.pdb
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Browser.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Browser.pdb
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.CardView.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.CardView.pdb
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Collection.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Collection.pdb
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.CoordinatorLayout.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.CoordinatorLayout.pdb
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Core.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Core.pdb
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.CursorAdapter.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.CursorAdapter.pdb
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.CustomView.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.CustomView.pdb
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.DocumentFile.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.DocumentFile.pdb
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.DrawerLayout.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.DrawerLayout.pdb
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Fragment.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Fragment.pdb
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Interpolator.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Interpolator.pdb
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.pdb
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Legacy.Support.Core.Utils.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Legacy.Support.Core.Utils.pdb
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.Common.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.Common.pdb
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.pdb
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.Runtime.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.Runtime.pdb
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.pdb
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.ViewModelSavedState.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.ViewModelSavedState.pdb
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Loader.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Loader.pdb
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.LocalBroadcastManager.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.LocalBroadcastManager.pdb
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.MultiDex.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.MultiDex.pdb
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Print.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Print.pdb
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.RecyclerView.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.RecyclerView.pdb
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.SavedState.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.SavedState.pdb
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.SlidingPaneLayout.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.SlidingPaneLayout.pdb
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.pdb
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Transition.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Transition.pdb
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.VectorDrawable.Animated.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.VectorDrawable.Animated.pdb
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.VectorDrawable.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.VectorDrawable.pdb
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.VersionedParcelable.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.VersionedParcelable.pdb
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.ViewPager.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.ViewPager.pdb
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.Essentials.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.Essentials.pdb
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.Google.Android.Material.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.Google.Android.Material.pdb
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.Google.Guava.ListenableFuture.dll
+D:\All programms\client_serv\App1\App1\bin\Debug\System.Numerics.Vectors.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\lp\43\jl\files.cache
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\typemaps.arm64-v8a.s
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\typemaps.armeabi-v7a.s
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\typemaps.x86.s
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\typemaps.x86_64.s
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\typemaps.armeabi-v7a-shared.inc
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\typemaps.shared.inc
+D:\All programms\client_serv\App1\App1\obj\Debug\100\AndroidManifest.xml
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\AndroidManifest.xml
+D:\All programms\client_serv\App1\App1\obj\Debug\100\__environment__.txt
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\mono\MonoRuntimeProvider.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\machine.config
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\bin\mono.android.jar
+D:\All programms\client_serv\App1\App1\obj\Debug\100\static.flag
+D:\All programms\client_serv\App1\App1\obj\Debug\100\buildid.txt
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\environment.arm64-v8a.s
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\environment.armeabi-v7a.s
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\environment.x86.s
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\environment.x86_64.s
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\androidx\appcompat\R.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\androidx\appcompat\resources\R.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\androidx\appcompat\widget\Toolbar_NavigationOnClickEventDispatcher.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\androidx\browser\customtabs\CustomTabsClient_CustomTabsCallbackImpl.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\androidx\browser\R.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\androidx\cardview\R.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\androidx\coordinatorlayout\R.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\androidx\core\R.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\androidx\drawerlayout\R.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\androidx\fragment\R.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\androidx\recyclerview\R.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\androidx\savedstate\R.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\androidx\transition\R.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\com\google\android\material\R.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\com\google\android\material\snackbar\Snackbar_SnackbarActionClickImplementor.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc64396a3fe5f8138e3f\CustomTabsServiceConnectionImpl.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc64396a3fe5f8138e3f\KeepAliveService.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\AccelerometerListener.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\ActivityLifecycleContextListener.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\BarometerListener.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\BatteryBroadcastReceiver.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\ClipboardChangeListener.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\ConnectivityBroadcastReceiver.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\EnergySaverBroadcastReceiver.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\GyroscopeListener.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\IntermediateActivity.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\Listener.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\MagnetometerListener.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\OrientationSensorListener.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\SensorListener.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\SingleLocationListener.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\TextToSpeechImplementation.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\WebAuthenticatorCallbackActivity.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\WebAuthenticatorIntermediateActivity.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc64a7a6b04b89628087\MainActivity.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\appcompat\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\appcompat\app\ActionBar_OnNavigationListenerImplementor.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\appcompat\app\ActionBar_TabListenerImplementor.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\appcompat\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\appcompat\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\appcompat\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\appcompat\widget\MenuItemHoverListenerImplementor.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\appcompat\widget\PopupMenu_OnDismissListenerImplementor.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\appcompat\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\appcompat\widget\SearchView_OnCloseListenerImplementor.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\appcompat\widget\SearchView_OnQueryTextListenerImplementor.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\appcompat\widget\SearchView_OnSuggestionListenerImplementor.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\appcompat\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\appcompat\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\appcompat\widget\ViewStubCompat_OnInflateListenerImplementor.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\asynclayoutinflater\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\core\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\core\os\CancellationSignal_OnCancelListenerImplementor.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\core\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\core\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\core\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\core\view\ActionProvider_VisibilityListenerImplementor.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\core\view\DragStartHelper_OnDragStartListenerImplementor.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\core\view\inputmethod\InputConnectionCompat_OnCommitContentListenerImplementor.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\core\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\core\view\OnApplyWindowInsetsListenerImplementor.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\core\view\ViewPropertyAnimatorListenerImplementor.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\core\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\core\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\drawerlayout\widget\DrawerLayout_DrawerListenerImplementor.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\fragment\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\loader\content\Loader_OnLoadCanceledListenerImplementor.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\loader\content\Loader_OnLoadCompleteListenerImplementor.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\recyclerview\widget\AsyncListDiffer_ListListenerImplementor.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\recyclerview\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnItemTouchListenerImplementor.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\recyclerview\widget\RecyclerView_RecyclerListenerImplementor.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\slidingpanelayout\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\swiperefreshlayout\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\transition\Transition_TransitionListenerImplementor.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\viewpager\widget\ViewPager_OnAdapterChangeListenerImplementor.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\viewpager\widget\ViewPager_OnPageChangeListenerImplementor.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\mono\android\app\ApplicationRegistration.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\mono\com\google\android\material\appbar\AppBarLayout_OnOffsetChangedListenerImplementor.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\mono\com\google\android\material\behavior\SwipeDismissBehavior_OnDismissListenerImplementor.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\mono\com\google\android\material\bottomnavigation\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\mono\com\google\android\material\bottomnavigation\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\mono\com\google\android\material\chip\ChipGroup_OnCheckedChangeListenerImplementor.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\mono\com\google\android\material\navigation\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\mono\com\google\android\material\tabs\TabLayout_BaseOnTabSelectedListenerImplementor.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\mono\MonoPackageManager_Resources.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\xamarin\essentials\fileProvider.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\bin\packaged_resources
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\com\nosferatu\filesender\R.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\compressed_assemblies.arm64-v8a.s
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\compressed_assemblies.armeabi-v7a.s
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\compressed_assemblies.x86.s
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\compressed_assemblies.x86_64.s
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\typemaps.arm64-v8a.o
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\typemaps.armeabi-v7a.o
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\typemaps.x86.o
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\typemaps.x86_64.o
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\environment.arm64-v8a.o
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\environment.armeabi-v7a.o
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\environment.x86.o
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\environment.x86_64.o
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\compressed_assemblies.arm64-v8a.o
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\compressed_assemblies.armeabi-v7a.o
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\compressed_assemblies.x86.o
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\compressed_assemblies.x86_64.o
+D:\All programms\client_serv\App1\App1\obj\Debug\100\app_shared_libraries\arm64-v8a\libxamarin-app.so
+D:\All programms\client_serv\App1\App1\obj\Debug\100\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+D:\All programms\client_serv\App1\App1\obj\Debug\100\app_shared_libraries\x86\libxamarin-app.so
+D:\All programms\client_serv\App1\App1\obj\Debug\100\app_shared_libraries\x86_64\libxamarin-app.so
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\bin\classes.dex
+D:\All programms\client_serv\App1\App1\obj\Debug\100\stamp\_CleanIntermediateIfNeeded.stamp
+D:\All programms\client_serv\App1\App1\obj\Debug\100\stamp\_CompileToDalvik.stamp
+D:\All programms\client_serv\App1\App1\obj\Debug\100\stamp\_ConvertCustomView.stamp
+D:\All programms\client_serv\App1\App1\obj\Debug\100\stamp\_ConvertResourcesCases.stamp
+D:\All programms\client_serv\App1\App1\obj\Debug\100\stamp\_GenerateJavaStubs.stamp
+D:\All programms\client_serv\App1\App1\obj\Debug\100\stamp\_GeneratePackageManagerJava.stamp
+D:\All programms\client_serv\App1\App1\obj\Debug\100\stamp\_ResolveLibraryProjectImports.stamp
+D:\All programms\client_serv\App1\App1\obj\Debug\100\lp\66\jl\files.cache
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\FormsViewGroup.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\FormsViewGroup.pdb
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Legacy.Support.V4.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Legacy.Support.V4.pdb
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.pdb
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Media.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Media.pdb
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.Forms.Core.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.Forms.Core.pdb
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.Forms.Platform.Android.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.Forms.Platform.Android.pdb
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.Forms.Platform.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.Forms.Xaml.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.Forms.Xaml.pdb
+D:\All programms\client_serv\App1\App1\obj\Debug\100\lp\62\jl\files.cache
+D:\All programms\client_serv\App1\App1\obj\Debug\100\lp\77\jl\files.cache
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\androidx\media\R.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\androidx\swiperefreshlayout\R.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc6414252951f3f66c67\CarouselViewAdapter_2.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc6414252951f3f66c67\RecyclerViewScrollListener_2.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ActionSheetRenderer.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ActivityIndicatorRenderer.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\AHorizontalScrollView.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\AndroidActivity.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\BaseCellView.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\BorderDrawable.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\BoxRenderer.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ButtonRenderer.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonClickListener.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonTouchListener.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CarouselPageAdapter.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CarouselPageRenderer.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CarouselSpacingItemDecoration.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewOnScrollListener.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewwOnGlobalLayoutListener.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CellAdapter.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CellRenderer_RendererHolder.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CenterSnapHelper.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CheckBoxDesignerRenderer.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CheckBoxRenderer.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CheckBoxRendererBase.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CircularProgress.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CollectionViewRenderer.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ColorChangeRevealDrawable.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ConditionalFocusLayout.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ContainerView.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CustomFrameLayout.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\DataChangeObserver.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\DatePickerRenderer.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\DatePickerRendererBase_1.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\DragAndDropGestureHandler.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\DragAndDropGestureHandler_CustomLocalStateData.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EdgeSnapHelper.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EditorEditText.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EditorRenderer.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EditorRendererBase_1.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EllipseRenderer.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EllipseView.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EmptyViewAdapter.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EndSingleSnapHelper.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EndSnapHelper.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EntryAccessibilityDelegate.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EntryCellEditText.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EntryCellView.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EntryEditText.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EntryRenderer.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EntryRendererBase_1.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FlyoutPageContainer.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FlyoutPageRenderer.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FlyoutPageRendererNonAppCompat.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_FontSpan.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_LineHeightSpan.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_TextDecorationSpan.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsAnimationDrawable.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsAppCompatActivity.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsApplicationActivity.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsEditText.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsEditTextBase.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsImageView.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsSeekBar.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsTextView.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsVideoView.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsWebChromeClient.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsWebViewClient.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FrameRenderer.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FrameRenderer_FrameDrawable.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\GenericAnimatorListener.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\GenericGlobalLayoutListener.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\GenericMenuClickListener.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\GestureManager_TapAndPanGestureDetector.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\GradientStrokeDrawable.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\GradientStrokeDrawable_GradientShaderFactory.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\GridLayoutSpanSizeLookup.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\GroupableItemsViewAdapter_2.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\GroupableItemsViewRenderer_3.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\GroupedListViewAdapter.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ImageButtonRenderer.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ImageCache_CacheEntry.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ImageCache_FormsLruCache.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ImageRenderer.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\IndicatorViewRenderer.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\InnerGestureListener.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\InnerScaleListener.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ItemContentView.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ItemsViewAdapter_2.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ItemsViewRenderer_3.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\LabelRenderer.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\LineRenderer.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\LineView.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ListViewAdapter.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ListViewRenderer.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ListViewRenderer_Container.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ListViewRenderer_ListViewScrollDetector.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\LocalizedDigitsKeyListener.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\MasterDetailContainer.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\MasterDetailRenderer.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\NativeViewWrapperRenderer.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\NavigationRenderer.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper_InitialScrollListener.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ObjectJavaBox_1.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer_Renderer.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PageContainer.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedFragment.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedSupportFragment.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PageRenderer.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PathRenderer.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PathView.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PickerEditText.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PickerManager_PickerListener.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PickerRenderer.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PlatformRenderer.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\Platform_DefaultRenderer.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PolygonRenderer.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PolygonView.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PolylineRenderer.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PolylineView.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PositionalSmoothScroller.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PowerSaveModeBroadcastReceiver.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ProgressBarRenderer.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\RadioButtonRenderer.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\RectangleRenderer.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\RectView.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\RecyclerViewContainer.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\RefreshViewRenderer.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ScrollHelper.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ScrollLayoutManager.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ScrollViewContainer.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ScrollViewRenderer.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SearchBarRenderer.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SelectableItemsViewAdapter_2.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SelectableItemsViewRenderer_3.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SelectableViewHolder.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShapeRenderer_2.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShapeView.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellContentFragment.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellFlyoutLayout.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_LinearLayoutWithFocus.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellFlyoutRenderer.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellFragmentPagerAdapter.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellItemRenderer.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellItemRendererBase.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellPageContainer.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellRenderer_SplitDrawable.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellSearchView.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_CustomFilter.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_ObjectWrapper.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellSearchView_ClipDrawableWrapper.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellSectionRenderer.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SimpleViewHolder.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SingleSnapHelper.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SizedItemContentView.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SliderRenderer.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SpacingItemDecoration.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\StartSingleSnapHelper.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\StartSnapHelper.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\StepperRenderer.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\StepperRendererManager_StepperListener.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\StructuredItemsViewAdapter_2.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\StructuredItemsViewRenderer_3.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SwipeViewRenderer.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SwitchCellView.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SwitchRenderer.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\TabbedRenderer.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\TableViewModelRenderer.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\TableViewRenderer.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\TemplatedItemViewHolder.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\TextCellRenderer_TextCellView.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\TextViewHolder.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\TimePickerRenderer.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\TimePickerRendererBase_1.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_TapGestureListener.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ViewRenderer.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ViewRenderer_2.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\VisualElementRenderer_1.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\VisualElementTracker_AttachTracker.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\WebViewRenderer.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\WebViewRenderer_JavascriptResult.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc64720bb2db43a66fe9\ButtonRenderer.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc64720bb2db43a66fe9\CarouselPageRenderer.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc64720bb2db43a66fe9\FormsFragmentPagerAdapter_1.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc64720bb2db43a66fe9\FormsViewPager.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc64720bb2db43a66fe9\FragmentContainer.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc64720bb2db43a66fe9\FrameRenderer.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc64720bb2db43a66fe9\MasterDetailPageRenderer.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_ClickListener.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_Container.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_DrawerMultiplexedListener.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc64720bb2db43a66fe9\PickerRenderer.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc64720bb2db43a66fe9\PickerRendererBase_1.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc64720bb2db43a66fe9\Platform_ModalContainer.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc64720bb2db43a66fe9\ShellFragmentContainer.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc64720bb2db43a66fe9\SwitchRenderer.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc64720bb2db43a66fe9\TabbedPageRenderer.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc64720bb2db43a66fe9\ViewRenderer_2.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc64ee486da937c010f4\ButtonRenderer.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc64ee486da937c010f4\FrameRenderer.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc64ee486da937c010f4\ImageRenderer.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc64ee486da937c010f4\LabelRenderer.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\mono\android\support\v4\media\session\MediaSessionCompat_OnActiveChangeListenerImplementor.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\lp\44\jl\files.cache
+D:\All programms\client_serv\App1\App1\obj\Debug\100\lp\50\jl\files.cache
+D:\All programms\client_serv\App1\App1\obj\Debug\100\lp\53\jl\files.cache
+D:\All programms\client_serv\App1\App1\obj\Debug\100\lp\54\jl\files.cache
+D:\All programms\client_serv\App1\App1\obj\Debug\100\lp\61\jl\files.cache
+D:\All programms\client_serv\App1\App1\obj\Debug\100\lp\67\jl\files.cache
+D:\All programms\client_serv\App1\App1\obj\Debug\100\lp\69\jl\files.cache
+D:\All programms\client_serv\App1\App1\obj\Debug\100\lp\70\jl\files.cache
+D:\All programms\client_serv\App1\App1\obj\Debug\100\lp\72\jl\files.cache
+D:\All programms\client_serv\App1\App1\obj\Debug\100\lp\74\jl\files.cache
+D:\All programms\client_serv\App1\App1\obj\Debug\100\lp\85\jl\files.cache
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.ViewPager2.dll
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.ViewPager2.pdb
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\androidx\viewpager2\R.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc64a25b61d9f8ee364f\FloatArrayEvaluator.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc64a25b61d9f8ee364f\RectEvaluator.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc64a25b61d9f8ee364f\TransitionUtils.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\crc64a25b61d9f8ee364f\TransitionUtils_MatrixEvaluator.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\mono\com\google\android\material\button\MaterialButtonToggleGroup_OnButtonCheckedListenerImplementor.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\mono\com\google\android\material\button\MaterialButton_OnCheckedChangeListenerImplementor.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\mono\com\google\android\material\card\MaterialCardView_OnCheckedChangeListenerImplementor.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\mono\com\google\android\material\datepicker\MaterialPickerOnPositiveButtonClickListenerImplementor.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\mono\com\google\android\material\internal\ViewUtils_OnApplyWindowInsetsListenerImplementor.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\mono\com\google\android\material\shape\ShapeAppearancePathProvider_PathListenerImplementor.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\mono\com\google\android\material\textfield\TextInputLayout_OnEditTextAttachedListenerImplementor.java
+D:\All programms\client_serv\App1\App1\obj\Debug\100\android\src\mono\com\google\android\material\textfield\TextInputLayout_OnEndIconChangedListenerImplementor.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\MonoAndroid,Version=v10.0.AssemblyAttributes.cs
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\build.props
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\adb.props
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\FileSender.csproj.AssemblyReference.cache
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\stamp\_BuildLibraryImportsCache.stamp
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\res.flag
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\lp\43\jl\files.cache
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\lp\44\jl\files.cache
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\lp\50\jl\files.cache
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\lp\53\jl\files.cache
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\lp\54\jl\files.cache
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\lp\61\jl\files.cache
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\lp\62\jl\files.cache
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\lp\66\jl\files.cache
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\lp\67\jl\files.cache
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\lp\69\jl\files.cache
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\lp\70\jl\files.cache
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\lp\71\jl\files.cache
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\lp\72\jl\files.cache
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\lp\73\jl\files.cache
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\lp\74\jl\files.cache
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\lp\77\jl\files.cache
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\lp\85\jl\files.cache
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\R.txt
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\R.cs.flag
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\FileSender.csproj.CoreCompileInputs.cache
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\App1.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\App1.pdb
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\lp\51\jl\files.cache
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\lp\55\jl\files.cache
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\lp\63\jl\files.cache
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\lp\68\jl\files.cache
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\lp\75\jl\files.cache
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\lp\78\jl\files.cache
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\lp\86\jl\files.cache
+G:\AllProjects\PetProjects\client_serv\App1\App1\bin\Debug\App1.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\bin\Debug\App1.pdb
+G:\AllProjects\PetProjects\client_serv\App1\App1\bin\Debug\com.Nosferatu.FileSender.apk
+G:\AllProjects\PetProjects\client_serv\App1\App1\bin\Debug\com.Nosferatu.FileSender.aab
+G:\AllProjects\PetProjects\client_serv\App1\App1\bin\Debug\com.Nosferatu.FileSender-Signed.aab
+G:\AllProjects\PetProjects\client_serv\App1\App1\bin\Debug\com.Nosferatu.FileSender-Signed.apk
+G:\AllProjects\PetProjects\client_serv\App1\App1\bin\Debug\com.Nosferatu.FileSender-Signed.apk.idsig
+G:\AllProjects\PetProjects\client_serv\App1\App1\bin\Debug\System.Text.Json.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\bin\Debug\System.Memory.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\bin\Debug\System.ValueTuple.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\bin\Debug\System.Text.Encodings.Web.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\bin\Debug\System.Numerics.Vectors.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\bin\Debug\System.Threading.Tasks.Extensions.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\bin\Debug\System.Buffers.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\bin\Debug\System.Text.Json.xml
+G:\AllProjects\PetProjects\client_serv\App1\App1\bin\Debug\System.Memory.xml
+G:\AllProjects\PetProjects\client_serv\App1\App1\bin\Debug\System.ValueTuple.xml
+G:\AllProjects\PetProjects\client_serv\App1\App1\bin\Debug\System.Text.Encodings.Web.xml
+G:\AllProjects\PetProjects\client_serv\App1\App1\bin\Debug\System.Numerics.Vectors.xml
+G:\AllProjects\PetProjects\client_serv\App1\App1\bin\Debug\System.Threading.Tasks.Extensions.xml
+G:\AllProjects\PetProjects\client_serv\App1\App1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+G:\AllProjects\PetProjects\client_serv\App1\App1\bin\Debug\System.Buffers.xml
+G:\AllProjects\PetProjects\client_serv\App1\App1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\FileSender.csproj.CopyComplete
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\bin\com.Nosferatu.FileSender.apk
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\bin\base.zip
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\bin\com.Nosferatu.FileSender.aab
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\bin\com.Nosferatu.FileSender.apks
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\res\layout\activity_main.xml
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\res\values\colors.xml
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\res\values\ic_launcher_background.xml
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\res\values\strings.xml
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\res\values\styles.xml
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\res\drawable\icon_pic.png
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\uploadflags.txt
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\resolvedassemblies.hash
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\App1.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\App1.pdb
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\FormsViewGroup.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\FormsViewGroup.pdb
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Java.Interop.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Microsoft.Bcl.AsyncInterfaces.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Mono.Android.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Mono.Android.pdb
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Mono.Security.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Mono.Security.pdb
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\mscorlib.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\mscorlib.pdb
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\netstandard.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\System.Buffers.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\System.ComponentModel.Composition.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\System.ComponentModel.Composition.pdb
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\System.Core.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\System.Core.pdb
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\System.Data.DataSetExtensions.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\System.Data.DataSetExtensions.pdb
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\System.Data.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\System.Data.pdb
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\System.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\System.Drawing.Common.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\System.Drawing.Common.pdb
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\System.IO.Compression.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\System.IO.Compression.FileSystem.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\System.IO.Compression.FileSystem.pdb
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\System.IO.Compression.pdb
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\System.Memory.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\System.Net.Http.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\System.Net.Http.pdb
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\System.Numerics.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\System.Numerics.pdb
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\System.Numerics.Vectors.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\System.pdb
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\System.Runtime.CompilerServices.Unsafe.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\System.Runtime.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\System.Runtime.Serialization.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\System.Runtime.Serialization.pdb
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\System.ServiceModel.Internals.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\System.ServiceModel.Internals.pdb
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\System.Text.Encodings.Web.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\System.Text.Json.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\System.Threading.Tasks.Extensions.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\System.Transactions.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\System.Transactions.pdb
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\System.ValueTuple.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\System.Web.Services.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\System.Web.Services.pdb
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\System.Xml.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\System.Xml.Linq.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\System.Xml.Linq.pdb
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\System.Xml.pdb
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Activity.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Activity.pdb
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Annotation.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Annotation.pdb
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.AppCompat.AppCompatResources.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.AppCompat.AppCompatResources.pdb
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.AppCompat.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.AppCompat.pdb
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Arch.Core.Common.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Arch.Core.Common.pdb
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Arch.Core.Runtime.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Arch.Core.Runtime.pdb
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.AsyncLayoutInflater.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.AsyncLayoutInflater.pdb
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Browser.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Browser.pdb
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.CardView.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.CardView.pdb
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Collection.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Collection.pdb
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.CoordinatorLayout.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.CoordinatorLayout.pdb
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Core.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Core.pdb
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.CursorAdapter.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.CursorAdapter.pdb
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.CustomView.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.CustomView.pdb
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.DocumentFile.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.DocumentFile.pdb
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.DrawerLayout.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.DrawerLayout.pdb
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Fragment.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Fragment.pdb
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Interpolator.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Interpolator.pdb
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.pdb
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Legacy.Support.Core.Utils.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Legacy.Support.Core.Utils.pdb
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Legacy.Support.V4.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Legacy.Support.V4.pdb
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.Common.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.Common.pdb
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.pdb
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.pdb
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.Runtime.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.Runtime.pdb
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.pdb
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.ViewModelSavedState.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.ViewModelSavedState.pdb
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Loader.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Loader.pdb
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.LocalBroadcastManager.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.LocalBroadcastManager.pdb
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Media.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Media.pdb
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.MultiDex.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.MultiDex.pdb
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Print.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Print.pdb
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.RecyclerView.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.RecyclerView.pdb
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.SavedState.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.SavedState.pdb
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.SlidingPaneLayout.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.SlidingPaneLayout.pdb
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.pdb
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Transition.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.Transition.pdb
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.VectorDrawable.Animated.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.VectorDrawable.Animated.pdb
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.VectorDrawable.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.VectorDrawable.pdb
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.VersionedParcelable.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.VersionedParcelable.pdb
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.ViewPager.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.ViewPager.pdb
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.ViewPager2.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.AndroidX.ViewPager2.pdb
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.Essentials.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.Essentials.pdb
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.Forms.Core.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.Forms.Core.pdb
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.Forms.Platform.Android.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.Forms.Platform.Android.pdb
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.Forms.Platform.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.Forms.Xaml.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.Forms.Xaml.pdb
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.Google.Android.Material.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.Google.Android.Material.pdb
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\Xamarin.Google.Guava.ListenableFuture.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\typemaps.arm64-v8a.s
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\typemaps.armeabi-v7a.s
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\typemaps.x86.s
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\typemaps.x86_64.s
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\typemaps.armeabi-v7a-shared.inc
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\typemaps.shared.inc
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\AndroidManifest.xml
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\AndroidManifest.xml
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\__environment__.txt
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\mono\MonoRuntimeProvider.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\machine.config
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\bin\mono.android.jar
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\static.flag
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\buildid.txt
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\environment.arm64-v8a.s
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\environment.armeabi-v7a.s
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\environment.x86.s
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\environment.x86_64.s
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\androidx\appcompat\R.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\androidx\appcompat\resources\R.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\androidx\appcompat\widget\Toolbar_NavigationOnClickEventDispatcher.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\androidx\browser\customtabs\CustomTabsClient_CustomTabsCallbackImpl.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\androidx\browser\R.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\androidx\cardview\R.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\androidx\coordinatorlayout\R.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\androidx\core\R.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\androidx\drawerlayout\R.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\androidx\fragment\R.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\androidx\media\R.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\androidx\recyclerview\R.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\androidx\savedstate\R.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\androidx\swiperefreshlayout\R.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\androidx\transition\R.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\androidx\viewpager2\R.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\com\google\android\material\R.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\com\google\android\material\snackbar\Snackbar_SnackbarActionClickImplementor.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc6414252951f3f66c67\CarouselViewAdapter_2.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc6414252951f3f66c67\RecyclerViewScrollListener_2.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc64396a3fe5f8138e3f\CustomTabsServiceConnectionImpl.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc64396a3fe5f8138e3f\KeepAliveService.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ActionSheetRenderer.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ActivityIndicatorRenderer.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\AHorizontalScrollView.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\AndroidActivity.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\BaseCellView.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\BorderDrawable.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\BoxRenderer.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ButtonRenderer.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonClickListener.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonTouchListener.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CarouselPageAdapter.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CarouselPageRenderer.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CarouselSpacingItemDecoration.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewOnScrollListener.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewwOnGlobalLayoutListener.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CellAdapter.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CellRenderer_RendererHolder.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CenterSnapHelper.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CheckBoxDesignerRenderer.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CheckBoxRenderer.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CheckBoxRendererBase.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CircularProgress.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CollectionViewRenderer.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ColorChangeRevealDrawable.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ConditionalFocusLayout.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ContainerView.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CustomFrameLayout.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\DataChangeObserver.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\DatePickerRenderer.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\DatePickerRendererBase_1.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\DragAndDropGestureHandler.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\DragAndDropGestureHandler_CustomLocalStateData.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EdgeSnapHelper.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EditorEditText.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EditorRenderer.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EditorRendererBase_1.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EllipseRenderer.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EllipseView.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EmptyViewAdapter.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EndSingleSnapHelper.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EndSnapHelper.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EntryAccessibilityDelegate.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EntryCellEditText.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EntryCellView.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EntryEditText.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EntryRenderer.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EntryRendererBase_1.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FlyoutPageContainer.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FlyoutPageRenderer.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FlyoutPageRendererNonAppCompat.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_FontSpan.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_LineHeightSpan.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_TextDecorationSpan.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsAnimationDrawable.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsAppCompatActivity.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsApplicationActivity.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsEditText.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsEditTextBase.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsImageView.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsSeekBar.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsTextView.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsVideoView.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsWebChromeClient.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsWebViewClient.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FrameRenderer.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FrameRenderer_FrameDrawable.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\GenericAnimatorListener.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\GenericGlobalLayoutListener.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\GenericMenuClickListener.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\GestureManager_TapAndPanGestureDetector.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\GradientStrokeDrawable.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\GradientStrokeDrawable_GradientShaderFactory.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\GridLayoutSpanSizeLookup.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\GroupableItemsViewAdapter_2.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\GroupableItemsViewRenderer_3.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\GroupedListViewAdapter.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ImageButtonRenderer.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ImageCache_CacheEntry.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ImageCache_FormsLruCache.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ImageRenderer.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\IndicatorViewRenderer.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\InnerGestureListener.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\InnerScaleListener.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ItemContentView.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ItemsViewAdapter_2.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ItemsViewRenderer_3.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\LabelRenderer.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\LineRenderer.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\LineView.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ListViewAdapter.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ListViewRenderer.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ListViewRenderer_Container.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ListViewRenderer_ListViewScrollDetector.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\LocalizedDigitsKeyListener.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\MasterDetailContainer.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\MasterDetailRenderer.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\NativeViewWrapperRenderer.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\NavigationRenderer.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper_InitialScrollListener.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ObjectJavaBox_1.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer_Renderer.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PageContainer.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedFragment.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedSupportFragment.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PageRenderer.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PathRenderer.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PathView.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PickerEditText.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PickerManager_PickerListener.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PickerRenderer.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PlatformRenderer.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\Platform_DefaultRenderer.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PolygonRenderer.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PolygonView.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PolylineRenderer.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PolylineView.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PositionalSmoothScroller.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PowerSaveModeBroadcastReceiver.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ProgressBarRenderer.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\RadioButtonRenderer.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\RectangleRenderer.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\RectView.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\RecyclerViewContainer.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\RefreshViewRenderer.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ScrollHelper.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ScrollLayoutManager.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ScrollViewContainer.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ScrollViewRenderer.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SearchBarRenderer.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SelectableItemsViewAdapter_2.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SelectableItemsViewRenderer_3.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SelectableViewHolder.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShapeRenderer_2.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShapeView.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellContentFragment.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellFlyoutLayout.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_LinearLayoutWithFocus.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellFlyoutRenderer.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellFragmentPagerAdapter.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellItemRenderer.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellItemRendererBase.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellPageContainer.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellRenderer_SplitDrawable.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellSearchView.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_CustomFilter.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_ObjectWrapper.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellSearchView_ClipDrawableWrapper.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellSectionRenderer.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SimpleViewHolder.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SingleSnapHelper.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SizedItemContentView.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SliderRenderer.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SpacingItemDecoration.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\StartSingleSnapHelper.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\StartSnapHelper.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\StepperRenderer.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\StepperRendererManager_StepperListener.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\StructuredItemsViewAdapter_2.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\StructuredItemsViewRenderer_3.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SwipeViewRenderer.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SwitchCellView.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SwitchRenderer.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\TabbedRenderer.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\TableViewModelRenderer.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\TableViewRenderer.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\TemplatedItemViewHolder.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\TextCellRenderer_TextCellView.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\TextViewHolder.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\TimePickerRenderer.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\TimePickerRendererBase_1.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_TapGestureListener.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ViewRenderer.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ViewRenderer_2.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\VisualElementRenderer_1.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\VisualElementTracker_AttachTracker.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\WebViewRenderer.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc643f46942d9dd1fff9\WebViewRenderer_JavascriptResult.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc64720bb2db43a66fe9\ButtonRenderer.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc64720bb2db43a66fe9\CarouselPageRenderer.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc64720bb2db43a66fe9\FormsFragmentPagerAdapter_1.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc64720bb2db43a66fe9\FormsViewPager.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc64720bb2db43a66fe9\FragmentContainer.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc64720bb2db43a66fe9\FrameRenderer.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc64720bb2db43a66fe9\MasterDetailPageRenderer.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_ClickListener.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_Container.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_DrawerMultiplexedListener.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc64720bb2db43a66fe9\PickerRenderer.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc64720bb2db43a66fe9\PickerRendererBase_1.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc64720bb2db43a66fe9\Platform_ModalContainer.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc64720bb2db43a66fe9\ShellFragmentContainer.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc64720bb2db43a66fe9\SwitchRenderer.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc64720bb2db43a66fe9\TabbedPageRenderer.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc64720bb2db43a66fe9\ViewRenderer_2.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\AccelerometerListener.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\ActivityLifecycleContextListener.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\BarometerListener.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\BatteryBroadcastReceiver.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\ClipboardChangeListener.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\ConnectivityBroadcastReceiver.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\EnergySaverBroadcastReceiver.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\GyroscopeListener.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\IntermediateActivity.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\Listener.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\MagnetometerListener.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\OrientationSensorListener.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\SensorListener.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\SingleLocationListener.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\TextToSpeechImplementation.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\WebAuthenticatorCallbackActivity.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\WebAuthenticatorIntermediateActivity.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc64a25b61d9f8ee364f\FloatArrayEvaluator.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc64a25b61d9f8ee364f\RectEvaluator.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc64a25b61d9f8ee364f\TransitionUtils.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc64a25b61d9f8ee364f\TransitionUtils_MatrixEvaluator.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc64a7a6b04b89628087\MainActivity.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc64ee486da937c010f4\ButtonRenderer.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc64ee486da937c010f4\FrameRenderer.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc64ee486da937c010f4\ImageRenderer.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc64ee486da937c010f4\LabelRenderer.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\appcompat\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\appcompat\app\ActionBar_OnNavigationListenerImplementor.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\appcompat\app\ActionBar_TabListenerImplementor.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\appcompat\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\appcompat\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\appcompat\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\appcompat\widget\MenuItemHoverListenerImplementor.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\appcompat\widget\PopupMenu_OnDismissListenerImplementor.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\appcompat\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\appcompat\widget\SearchView_OnCloseListenerImplementor.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\appcompat\widget\SearchView_OnQueryTextListenerImplementor.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\appcompat\widget\SearchView_OnSuggestionListenerImplementor.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\appcompat\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\appcompat\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\appcompat\widget\ViewStubCompat_OnInflateListenerImplementor.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\asynclayoutinflater\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\core\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\core\os\CancellationSignal_OnCancelListenerImplementor.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\core\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\core\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\core\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\core\view\ActionProvider_VisibilityListenerImplementor.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\core\view\DragStartHelper_OnDragStartListenerImplementor.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\core\view\inputmethod\InputConnectionCompat_OnCommitContentListenerImplementor.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\core\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\core\view\OnApplyWindowInsetsListenerImplementor.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\core\view\ViewPropertyAnimatorListenerImplementor.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\core\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\core\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\drawerlayout\widget\DrawerLayout_DrawerListenerImplementor.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\fragment\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\loader\content\Loader_OnLoadCanceledListenerImplementor.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\loader\content\Loader_OnLoadCompleteListenerImplementor.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\recyclerview\widget\AsyncListDiffer_ListListenerImplementor.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\recyclerview\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnItemTouchListenerImplementor.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\recyclerview\widget\RecyclerView_RecyclerListenerImplementor.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\slidingpanelayout\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\swiperefreshlayout\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\transition\Transition_TransitionListenerImplementor.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\viewpager\widget\ViewPager_OnAdapterChangeListenerImplementor.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\mono\androidx\viewpager\widget\ViewPager_OnPageChangeListenerImplementor.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\mono\android\app\ApplicationRegistration.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\mono\android\support\v4\media\session\MediaSessionCompat_OnActiveChangeListenerImplementor.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\mono\com\google\android\material\appbar\AppBarLayout_OnOffsetChangedListenerImplementor.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\mono\com\google\android\material\behavior\SwipeDismissBehavior_OnDismissListenerImplementor.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\mono\com\google\android\material\bottomnavigation\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\mono\com\google\android\material\bottomnavigation\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\mono\com\google\android\material\button\MaterialButtonToggleGroup_OnButtonCheckedListenerImplementor.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\mono\com\google\android\material\button\MaterialButton_OnCheckedChangeListenerImplementor.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\mono\com\google\android\material\card\MaterialCardView_OnCheckedChangeListenerImplementor.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\mono\com\google\android\material\chip\ChipGroup_OnCheckedChangeListenerImplementor.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\mono\com\google\android\material\datepicker\MaterialPickerOnPositiveButtonClickListenerImplementor.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\mono\com\google\android\material\internal\ViewUtils_OnApplyWindowInsetsListenerImplementor.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\mono\com\google\android\material\navigation\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\mono\com\google\android\material\shape\ShapeAppearancePathProvider_PathListenerImplementor.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\mono\com\google\android\material\tabs\TabLayout_BaseOnTabSelectedListenerImplementor.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\mono\com\google\android\material\textfield\TextInputLayout_OnEditTextAttachedListenerImplementor.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\mono\com\google\android\material\textfield\TextInputLayout_OnEndIconChangedListenerImplementor.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\mono\MonoPackageManager_Resources.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\xamarin\essentials\fileProvider.java
+G:\AllProjects\PetProjects\client_serv\App1\App1\bin\Debug\FileSender.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\bin\Debug\FileSender.pdb
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\FileSender.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\FileSender.pdb
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\FileSender.dll
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\assets\FileSender.pdb
+G:\AllProjects\PetProjects\client_serv\App1\App1\obj\Debug\100\android\src\crc648cacca15b98a87ee\MainActivity.java
